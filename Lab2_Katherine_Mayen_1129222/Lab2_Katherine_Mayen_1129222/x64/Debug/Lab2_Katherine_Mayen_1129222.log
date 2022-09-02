@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\kathe\source\repos\Lab2_Katherine_Mayen_1129222\Lab2_Katherine_Mayen_1129222\MyForm.h(342,15): warning C4101: 'figuraTriangulo': unreferenced local variable
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab2_Katherine_Mayen_1129222.vcxproj -> C:\Users\kathe\source\repos\Lab2_Katherine_Mayen_1129222\x64\Debug\Lab2_Katherine_Mayen_1129222.exe
